@@ -28,6 +28,10 @@ patch:
       hilited_candidate_back_color: 0xEED4FF
       candidate_text_color: 0x8161FF
       comment_text_color: 0xCEBDFF
+      font_face: "霞鹜文楷" # 候选词字体
+      font_point: 16 # 候选字词大小
+      label_font_face: "霞鹜文楷" # 候选词编号字体
+      label_font_point: 12 # 候选编号大小
       
     ayaya:
       name: "文文／Ayaya"
@@ -39,9 +43,12 @@ patch:
       corner_radius: 5 # 候选条圆角
       border_height: 0
       border_width: 0
-      font_face: "PingFangSC" # 候选词字体
+      # 字体
+      # font_face: "PingFangSC" # 候选词字体
+      font_face: "霞鹜文楷" # 候选词字体
       font_point: 16 # 候选字词大小
-      label_font_face: "PingFangSC" # 候选词编号字体
+      # label_font_face: "PingFangSC" # 候选词编号字体
+      label_font_face: "霞鹜文楷" # 候选词编号字体
       label_font_point: 12 # 候选编号大小
 
       # 颜色

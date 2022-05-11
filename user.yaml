@@ -1,9 +1,0 @@
-var:
-  last_build_time: 1651543195
-  option:
-    simplification: false
-  previously_selected_schema: clover
-  schema_access_time:
-    clover: 1651543227
-    lufs_flypy: 1651542025
-    lufs_pinyin: 1651543213
